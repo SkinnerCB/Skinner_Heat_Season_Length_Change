@@ -1,0 +1,1 @@
+This folder contains the python scripts used to calculate the extreme heat season characteristics for ERA5 and CESM. The scripts create netcdf files which can then be loaded into the analysis/plotting scripts.
